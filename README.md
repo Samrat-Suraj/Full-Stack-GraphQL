@@ -1,4 +1,4 @@
-💰 #GraphQL Expense 
+💰 # GraphQL Expense 
 
 Welcome to the MERN GraphQL Expense Tracker App! This project helps you manage expenses efficiently using modern technologies.
 
