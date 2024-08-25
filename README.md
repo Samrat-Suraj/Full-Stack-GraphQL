@@ -42,5 +42,5 @@ Welcome to the MERN GraphQL Expense Tracker App! This project helps you manage e
 
 ## 🌐 Live Demo
 
-[Expense Tracker App Live]([Link](https://graphqls.onrender.com/))  
+[Expense Tracker App Live]([Link] (https://graphqls.onrender.com/))  
 *Note: Initial load may take a few seconds due to free hosting.*
